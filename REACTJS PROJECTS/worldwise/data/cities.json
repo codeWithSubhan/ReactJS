@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Montizon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-07T14:02:11.099Z",
+      "notes": "",
+      "position": {
+        "lat": "38.362103240986585",
+        "lng": "-3.1671779882834166"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Nala",
+      "country": "South Africa",
+      "emoji": "🇿🇦",
+      "date": "2023-09-07T14:15:10.974Z",
+      "notes": "",
+      "position": {
+        "lat": "-27.99440111499953",
+        "lng": "26.204125730436548"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Ghaziabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-09T03:31:59.111Z",
+      "notes": "",
+      "position": {
+        "lat": "28.770111091169124",
+        "lng": "77.35983295225134"
+      },
+      "id": 5
+    }
+  ]
+}
